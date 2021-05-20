@@ -3,6 +3,9 @@
 ## preview
 ![image](https://user-images.githubusercontent.com/26318691/119004295-6476bb80-b9c9-11eb-87da-4fef6a37efea.png)
 
+## 실행
+npm run start 
+
 ## 이후 보완해야 할 점
  - firebase로 데이터 관리하기
  - TypeScript 적용
