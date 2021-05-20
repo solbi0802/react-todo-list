@@ -1,8 +1,6 @@
 # react-todo-list
 
-React TODO LIST
-
-- preview
+preview
 ![image](https://user-images.githubusercontent.com/26318691/119004295-6476bb80-b9c9-11eb-87da-4fef6a37efea.png)
 
 - 이후 보완해야 할 점
