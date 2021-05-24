@@ -7,5 +7,5 @@
 npm run start 
 
 ## 이후 보완해야 할 점
- - firebase로 데이터 관리하기
+ - firebase나 strapi로 데이터 관리하기
  - TypeScript 적용
