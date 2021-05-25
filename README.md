@@ -6,12 +6,12 @@
 ## 실행
 
 ### Frontend
- `cd todo-app 
- npm run start`
+ `cd todo-app`
+ `npm run start`
 
 ### Backend
-`cd api
-npm run develop`
+`cd api`
+`npm run develop`
 
 ## 이후 보완해야 할 점
  - firebase나 strapi로 데이터 관리하기 & api 호출
