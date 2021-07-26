@@ -2,48 +2,48 @@
   "routes": [
     {
       "method": "GET",
-      "path": "/todos",
-      "handler": "todo.find",
+      "path": "/todo-lists",
+      "handler": "todo-list.find",
       "config": {
         "policies": []
       }
     },
     {
       "method": "GET",
-      "path": "/todos/count",
-      "handler": "todo.count",
+      "path": "/todo-lists/count",
+      "handler": "todo-list.count",
       "config": {
         "policies": []
       }
     },
     {
       "method": "GET",
-      "path": "/todos/:id",
-      "handler": "todo.findOne",
+      "path": "/todo-lists/:id",
+      "handler": "todo-list.findOne",
       "config": {
         "policies": []
       }
     },
     {
       "method": "POST",
-      "path": "/todos",
-      "handler": "todo.create",
+      "path": "/todo-lists",
+      "handler": "todo-list.create",
       "config": {
         "policies": []
       }
     },
     {
       "method": "PUT",
-      "path": "/todos/:id",
-      "handler": "todo.update",
+      "path": "/todo-lists/:id",
+      "handler": "todo-list.update",
       "config": {
         "policies": []
       }
     },
     {
       "method": "DELETE",
-      "path": "/todos/:id",
-      "handler": "todo.delete",
+      "path": "/todo-lists/:id",
+      "handler": "todo-list.delete",
       "config": {
         "policies": []
       }

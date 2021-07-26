@@ -1,5 +1,5 @@
 {
-  "name": "react-todo-list",
+  "name": "todo-list-api",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -28,7 +28,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "8ae6675e-9798-47d8-8f2d-a64ea85510e6"
+    "uuid": "6621f7fd-b6f0-4678-b60a-598f1318b2ec"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
