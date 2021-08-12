@@ -14,4 +14,4 @@
 `npm run develop`
 
 ## 이후 보완해야 할 점
- - firebase나 strapi로 데이터 관리하기 & api 호출
+- [ ] firebase나 strapi로 데이터 관리하기 & api 호출
