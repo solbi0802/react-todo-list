@@ -1,5 +1,5 @@
 # react-todo-list
-
+react로 todo list 만들기 
 ## preview
 ![image](https://user-images.githubusercontent.com/26318691/119004295-6476bb80-b9c9-11eb-87da-4fef6a37efea.png)
 
